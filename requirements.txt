@@ -1,0 +1,1 @@
+torch>=2.0\ntransformers>=4.35\naccelerate
